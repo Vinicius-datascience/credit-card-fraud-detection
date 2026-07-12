@@ -167,16 +167,6 @@ credit-card-fraud-detection/
 └── .gitignore
 ```
 
-------------------------------------------------------------------------
-
-# ▶️ Como Executar
-
-``` bash
-pip install -r requirements.txt
-```
-
-Abra o notebook `fraud_detection_analysis.ipynb` e execute as células em
-sequência.
 
 ------------------------------------------------------------------------
 
